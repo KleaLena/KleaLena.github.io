@@ -24,9 +24,9 @@ author:
   avatar           : "KleaProfile.jpeg"
   name             : "Klea Lena Kovacec"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Graduate student at AI Data Science lab"
+  location         : "Gwangju, South Korea"
+  employer         : "Gwangju Institute of Science & Technology"
   uri              : # URL
   email            : "none@example.org" 
 
